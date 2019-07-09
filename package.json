@@ -1,12 +1,9 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "developer-guiding-site",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
-  "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
-  },
+  "author": "Ryan Wilson",
   "dependencies": {
     "gatsby": "^2.13.9",
     "gatsby-image": "^2.2.4",
